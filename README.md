@@ -56,6 +56,12 @@ Make sure to update R and RStudio to the latest versions if you encounter instal
 - Co-word / cosine similarity networks with community detection using [Gephi](https://gephi.org/).
 - Cosine similarity matrices.
 
+These are 2 graphs obtained by using our exported ```.gml``` code in Gephi (co-word and cosine similarity networks):
+<p align="center">
+  <img src="https://raw.githubusercontent.com/matteosgobba/Text-Mining-Workshop-Analysis-on-customer-complaints/refs/heads/main/screenshots/coword_graph.png" width="500"/>
+  <img src="https://raw.githubusercontent.com/matteosgobba/Text-Mining-Workshop-Analysis-on-customer-complaints/refs/heads/main/screenshots/cosine_similarity.png" width="500"/>
+</p>
+
 # Credits
 
 @matteosgobba, @FedericaMonte, @GiorgiaDeMario, @GalatàSerena, @SummoEmanuela, @RendineFrancesca, @SchinoPasquale, @BellomoMichele
