@@ -2,6 +2,8 @@
 This project was done in December 2024 in the penultimate semester of my bachelor's degree, during a 3-week workshop for the course "Business Data Analytics". The goal of the project was to analyze the corpus of complaints for different financial services and products, and try to gain insights and extract useful information using text mining techniques in R.
 
 The dataset used was the 2022 Consumer Complaint Database of the CFPB (Consumer Financial Protection Bureau); you can download the data at the following [link](https://www.consumerfinance.gov/data-research/consumer-complaints/).
+
+The project was presented using a presentation available from the repository.
 # Project structure
 - **Data Sampling:** A 5% random sample of the unigrams dataset is selected to ensure computational efficiency.
 - **Preprocessing:**
